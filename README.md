@@ -1,2 +1,2 @@
 # ecommerce-public
-Ecommerce website template - public version/
+Ecommerce website template - public version
