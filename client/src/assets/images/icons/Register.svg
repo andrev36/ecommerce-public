@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="48" height="48" viewBox="0 0 48 48.000001" id="svg9325" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="add_user_employee_account_new_profile_register.svg">
+  <defs id="defs9327"/>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="7.9195959" inkscape:cx="13.844966" inkscape:cy="17.750734" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" units="px" inkscape:window-width="1366" inkscape:window-height="716" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1"/>
+  
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(0,-1004.3622)">
+    <g transform="matrix(0.96875083,0,0,0.96875072,0.74995441,32.135604)" id="g9858">
+      <g transform="matrix(0.77613924,0,0,0.77613932,2.4170074,228.43083)" id="g9862">
+        <path style="fill:none;stroke:#000000;stroke-width:1.99459255;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 7.7035341,1019.1101 0,8.1334 16.2667979,0 0,-8.1334 0,8.1334 -16.2667979,0 z" id="path9865" inkscape:connector-curvature="0"/>
+        <circle transform="matrix(1.3555665,0,0,1.3555665,-8.5632642,-391.16994)" style="fill:none;stroke:#000000;stroke-width:1.47140908;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="circle9867" cx="18" cy="1036.7322" r="3"/>
+      </g>
+      <ellipse ry="14.710124" rx="14.710123" cy="1037.6521" cx="33.289879" id="ellipse9869" style="fill:none;stroke:#000000;stroke-width:1.54838586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+      <path sodipodi:open="true" sodipodi:end="0.29165969" sodipodi:start="1.2544838" sodipodi:type="arc" style="fill:none;stroke:#000000;stroke-width:1.54838586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path9871" sodipodi:cx="14.708673" sodipodi:cy="1019.0709" sodipodi:rx="14.710123" sodipodi:ry="14.710124" d="m 19.284464,1033.0513 a 14.710123,14.710124 0 0 1 -17.0622595,-6.2038 14.710123,14.710124 0 0 1 1.9574189,-18.0492 14.710123,14.710124 0 0 1 17.9955116,-2.4017 14.710123,14.710124 0 0 1 6.622422,16.9041"/>
+      <path inkscape:connector-curvature="0" id="path9873" d="m 33.289879,1028.3621 0,18" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.54838586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+      <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.54838586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 42.289879,1037.6521 -18,0" id="path9875" inkscape:connector-curvature="0"/>
+    </g>
+  </g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="add_user_employee_account_new_profile_register" dc:description="add_user_employee_account_new_profile_register" dc:publisher="Iconscout" dc:date="2017-06-28" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Vignesh Oviyan</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

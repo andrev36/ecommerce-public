@@ -1,0 +1,43 @@
+{
+ "name": "ecommerce-website",
+ "version": "1.0.0",
+ "main": "server.js",
+ "repository": "https://github.com/andrev36/ecommerce-website.git",
+ "author": "andrev36 <wiadernyandrzej96@gmail.com>",
+ "license": "MIT",
+ "scripts": {
+  "server": "nodemon --watch --inspect server.js",
+  "server2": "node --inspect server.js",
+  "client": "cd client && yarn start",
+  "debug": "concurrently --kill-others-on-fail \"yarn server2\" \"yarn client\"",
+  "dev": "concurrently --kill-others-on-fail \"yarn server\" \"yarn client\""
+ },
+ "dependencies": {
+  "@sentry/node": "5.15.4",
+  "bcryptjs": "^2.4.3",
+  "body-parser": "^1.19.0",
+  "connect-datadog": "^0.0.9",
+  "connect-mongo": "^3.2.0",
+  "cookie-parser": "^1.4.5",
+  "cors": "^2.8.5",
+  "csurf": "^1.11.0",
+  "dotenv": "^8.2.0",
+  "express": "^4.17.1",
+  "express-mongo-sanitize": "^2.0.0",
+  "express-rate-limit": "^5.1.1",
+  "express-session": "^1.17.0",
+  "helmet": "^3.22.0",
+  "honeybadger": "^1.4.0",
+  "hpp": "^0.2.3",
+  "mongoose": "^5.9.7",
+  "nodemailer": "^6.4.6",
+  "uuid": "^7.0.3",
+  "xss-clean": "^0.1.1"
+ },
+ "devDependencies": {
+  "morgan": "^1.10.0",
+  "colors": "^1.4.0",
+  "concurrently": "^5.1.0",
+  "nodemon": "^2.0.2"
+ }
+}

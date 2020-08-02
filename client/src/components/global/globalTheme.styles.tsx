@@ -1,0 +1,7 @@
+export const globalTheme = {
+ MAIN_COLOR: '#97CDDF',
+ SECOND_COLOR: '#C5E1EC',
+ THIRD_COLOR: '#9EE6FF',
+ FOURTH_COLOR: '#73B5CC',
+ FIFTH_COLOR: '#48BEEA'
+};

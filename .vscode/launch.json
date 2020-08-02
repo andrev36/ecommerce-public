@@ -1,0 +1,41 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    // * NOTE 1. Launch node 2. Launch yarn start from client folder 3. Launch chrome debugger on port 3000, with "webRoot": "${workspaceFolder}/src"
+    // * NOTE To attach to running "dev" npm script: 1. Run "Debug: Attach to process" = F4 from commands 2. Run "Debug: Start debugging" = F5 from commands
+    "version": "0.2.0",
+    "configurations": [{
+            "type": "node",
+            "request": "attach",
+            "name": "Attach",
+            "port": 5000,
+            "skipFiles": [
+                "<node_internals>/**"
+            ]
+        },
+        {
+            "type": "chrome",
+            "request": "attach",
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "webRoot": "${workspaceFolder}/src"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/server.js",
+            "skipFiles": [
+                "<node_internals>/**"
+            ]
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:3000",
+            "webRoot": "${workspaceFolder}/src"
+        }
+    ]
+}
