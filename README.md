@@ -19,15 +19,6 @@ start" or "yarn start". Only code preview is available.
  <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
  <a href="https://redux.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <svg viewBox="0 0 128 128" width="40" height="40">
-<style type="text/css">.st0{fill:#1FA6CA;}.st1{fill:#1C7FB6;}</style><path class="st0" d="M0.2,68.6V13.4L48,41v18.4L16.1,41v36.8L0.2,68.6z"></path><path class="st1" d="M48,41l47.9-27.6v55.3L64,87l-16-9.2L80,59.4V41L48,59.4V41z"></path><path class="st0" d="M48,77.8v18.4L80,114.6V96.2L48,77.8z"></path><path class="st1" d="M80,114.6L127.8,87V50.2l-16,9.2v18.4L80,96.2V114.6z M111.9,41V22.6l16-9.2v18.4L111.9,41z"></path>
-</svg>
-   <svg viewBox="0 0 128 128" width="40" height="40">
-<defs><style>.cls-1{fill:#cb3837;}</style></defs><title>Artboard 5</title><path id="original-wordmark" class="cls-1" d="M2,38.5H126V82.21H64V89.5H36.44V82.21H2ZM8.89,74.93H22.67V53.07h6.89V74.93h6.89V45.79H8.89ZM43.33,45.79V82.21H57.11V74.93H70.89V45.79Zm13.78,7.29H64V67.64H57.11Zm20.67-7.29V74.93H91.56V53.07h6.89V74.93h6.89V53.07h6.89V74.93h6.89V45.79Z"></path>
-</svg>
-<svg viewBox="0 0 128 128" width="40" height="40">
-<g fill="#090"><path d="M24.5 50.5c-1.5 0-2.5 1.2-2.5 2.7v14.1l-15.9-16c-.8-.8-2.2-1-3.2-.6s-1.9 1.4-1.9 2.5v20.7c0 1.5 1.5 2.7 3 2.7s3-1.2 3-2.7v-14.1l16.1 16c.5.5 1.2.8 1.9.8.3 0 .4-.1.7-.2 1-.4 1.3-1.4 1.3-2.5v-20.6c0-1.5-1-2.8-2.5-2.8zM44.2 62.3c-1.4 0-2.7 1.4-2.7 2.8s1.3 2.8 2.7 2.8l6.6.4-1.5 3.7h-8.5l-4.2-7.9 4.3-8.1h9.1l2.1 4h5.5l-3.6-7.9-.8-1.1h-15.6l-.7 1.2-5.9 10.3-.7 1.3.7 1.3 5.8 10.3.8 1.6h15.1l.7-1.7 4.3-9 1.9-4.3h-4.4l-11 .3zM65 50.5c-1.4 0-3 1.3-3 2.7v6.8h6v-6.7c0-1.5-1.6-2.8-3-2.8zM95.4 50.8c-1-.4-2.4-.2-3.1.6l-16.3 16v-14.1c0-1.5-1-2.7-2.5-2.7s-2.5 1.2-2.5 2.7v20.7c0 1.1.7 2.1 1.7 2.5.3.1.7.2 1 .2.7 0 1.6-.3 2.1-.8l16.2-16v14.1c0 1.5 1 2.7 2.5 2.7s2.5-1.2 2.5-2.7v-20.7c0-1.1-.6-2.1-1.6-2.5zM117.2 63.6l8.4-8.4c1.1-1.1 1.1-2.8 0-3.8-1.1-1.1-2.8-1.1-3.8 0l-8.4 8.4-8.4-8.4c-1.1-1.1-2.8-1.1-3.8 0-1.1 1.1-1.1 2.8 0 3.8l8.4 8.4-8.4 8.4c-1.1 1.1-1.1 2.8 0 3.8.5.5 1.2.8 1.9.8s1.4-.3 1.9-.8l8.4-8.4 8.4 8.4c.5.5 1.2.8 1.9.8s1.4-.3 1.9-.8c1.1-1.1 1.1-2.8 0-3.8l-8.4-8.4zM62 73.9c0 1.4 1.5 2.7 3 2.7 1.4 0 3-1.3 3-2.7v-11.9h-6v11.9z"></path></g>
-</svg>
 
 ## Information about Tech stack is at the bottom
 
