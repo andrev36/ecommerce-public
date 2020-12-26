@@ -19,6 +19,12 @@ start" or "yarn start". Only code preview is available.
  <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
  <a href="https://redux.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+   <a href="https://www.npmjs.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
+    <a href="https://material-ui.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/materialui/materialui-original.svg" alt="material ui" width="40" height="40"/> </a>
+     <a href="https://github.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
+      <a href="https://yarnpkg.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/yarn/yarn-original-wordmark.svg" alt="babel" width="40" height="40"/> </a>
+       <a href="https://styled-components.com/" target="_blank"> <img src="https://styled-components.com/atom.png" alt="styled components" width="40" height="40"/> </a>
+          <a href="https://formik.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" alt="formik" width="40" height="40"/> </a>
 
 ## Information about Tech stack is at the bottom
 
